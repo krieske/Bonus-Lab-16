@@ -1,0 +1,7 @@
+C:\Users\Kristen\source\repos\C# Practice Labs\BonusLab16\BonusLab16\bin\Debug\BonusLab16.exe.config
+C:\Users\Kristen\source\repos\C# Practice Labs\BonusLab16\BonusLab16\bin\Debug\BonusLab16.exe
+C:\Users\Kristen\source\repos\C# Practice Labs\BonusLab16\BonusLab16\bin\Debug\BonusLab16.pdb
+C:\Users\Kristen\source\repos\C# Practice Labs\BonusLab16\BonusLab16\obj\Debug\BonusLab16.csprojAssemblyReference.cache
+C:\Users\Kristen\source\repos\C# Practice Labs\BonusLab16\BonusLab16\obj\Debug\BonusLab16.csproj.CoreCompileInputs.cache
+C:\Users\Kristen\source\repos\C# Practice Labs\BonusLab16\BonusLab16\obj\Debug\BonusLab16.exe
+C:\Users\Kristen\source\repos\C# Practice Labs\BonusLab16\BonusLab16\obj\Debug\BonusLab16.pdb
